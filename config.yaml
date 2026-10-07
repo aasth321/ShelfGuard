@@ -1,9 +1,0 @@
-# Product classes. The ORDER defines the YOLO class ids (0,1,2,...).
-# Replace these with your real SKUs when you move to real photos.
-classes:
-  - cola_can
-  - chips_pack
-  - biscuit_box
-  - juice_carton
-  - noodle_cup
-  - soap_bar
